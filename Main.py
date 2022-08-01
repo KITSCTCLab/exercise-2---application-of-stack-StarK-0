@@ -26,7 +26,7 @@ class Evaluate:
     """
       # Write your code here
       if self.top==-1:
-        retrn True
+        return True
       else:
         return False
 
